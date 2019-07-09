@@ -9,7 +9,7 @@
     background-color: azure
 }
 .wrapper{ display: inline-block;
-margin:200px;}
+margin:100px;}
 input{
     margin :20px;
     border: solid blue 1px;
