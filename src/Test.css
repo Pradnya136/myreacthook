@@ -8,4 +8,9 @@
     border: solid black 1px;
     background-color: azure
 }
-.wrapper{ display: inline-block}
+.wrapper{ display: inline-block;
+margin:200px;}
+input{
+    margin :20px;
+    border: solid blue 1px;
+}
